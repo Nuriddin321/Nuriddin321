@@ -46,10 +46,4 @@
   
 [![](https://komarev.com/ghpvc/?username=Nuriddin321&color=orange&label=Profile%20Views)](https://github.com/Nuriddin321/Nuriddin321)
 [![](https://img.shields.io/github/followers/Nuriddin321?label=GitHub%20Followers)](https://github.com/Nuriddin321)
-
-<!--
-  
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
