@@ -6,16 +6,17 @@
 <br/><br/>
 
 <p align="end">
-<a href="https://dev.to/nuriddin321"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
 <a href="https://www.linkedin.com/in/nuriddin-xayrullayev-a24378238/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/Okey_3321"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://instagram.com/developer_321"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://dev.to/nuriddin321"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
+
  
 
 <h1> 👨🏻‍💻 Me now </h1>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Student at   <a href="https://ilmhub.uz/">Ilmhub IT school</a>
+- 🎓 &nbsp; Student at   <a href="https://instagram.com/ilmhub.uz/">Ilmhub IT school</a>
 - 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff. 
 <br/>
 
