@@ -17,7 +17,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Student at   <a href="https://instagram.com/ilmhub.uz/">Ilmhub IT school</a>
-- 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff. 
 <br/>
 
 <h1>🛠 Me Stack</h1>
