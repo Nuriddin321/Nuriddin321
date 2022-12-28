@@ -15,7 +15,7 @@
 
 <h1> 👨🏻‍💻 Me now </h1>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 👨‍💻 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Student at   <a href="https://instagram.com/ilmhub.uz/">Ilmhub IT school</a>
 <br/>
 
